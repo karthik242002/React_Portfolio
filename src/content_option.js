@@ -7,9 +7,9 @@ const meta = {
 const introdata = {
     title: "I’m Karthik S",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop new websites",
+        first: "20 • Web3 Hackathon × 1🏆🏅",
+        second: "Intern at Yugaas tech",
+        third: "Open to work",
     },
     description: "An Open Source Contributor, Passionate for innovation, A boy trying to figure-out stuff!!",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
